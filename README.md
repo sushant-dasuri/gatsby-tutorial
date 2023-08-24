@@ -98,4 +98,7 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 The fastest way to combine your favorite tools and APIs to build the fastest sites, stores, and apps for the web. And also the best place to build, deploy, and host your Gatsby sites.
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+<<<<<<< HEAD
+>>>>>>> 2bca5a0 (Initial commit from gatsby: (https://github.com/gatsbyjs/gatsby-starter-hello-world.git))
+=======
 >>>>>>> 2bca5a0 (Initial commit from gatsby: (https://github.com/gatsbyjs/gatsby-starter-hello-world.git))
