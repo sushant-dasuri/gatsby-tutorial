@@ -8,12 +8,11 @@
   color: white;
 }
 html, body {
-  height: auto;
+  min-height: 100%;
 }
 body {
   background: radial-gradient(at top left, rgba(146,43,225,1) 0%, rgba(43,9,107,1) 100%);
   background-repeat: no-repeat;
-  display: grid;
 }
 p {
   margin: 16px auto;

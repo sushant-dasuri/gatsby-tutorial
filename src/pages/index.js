@@ -11,8 +11,8 @@ export default function Home() {
       <section className={styles.header}>
     <div>
       <h2>Design</h2>
-      <h3>Develop & Deploy</h3>
-      <p>UX designer & web developer based in Manchester.</p>
+      <h3>Develop &nbsp; Deploy</h3>
+      <p>UX designer &nbsp; web developer based in Manchester.</p>
       <Link className={styles.btn} to="/projects">My Portfolio Projects</Link>
     </div>
    <StaticImage src="../images/banner.png" alt="Home Page Banner" placeholder="blurred" width={800} />
